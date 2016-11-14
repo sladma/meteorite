@@ -6,6 +6,9 @@ NASA API provides data.
 
 The app uses MVVM pattern with databinding library.
 
+![Screenshow1](http://89.185.244.39/img/1.png)
+![Screenshow2](http://89.185.244.39/img/2.png)
+
 ### Libraries ###
 
 * Retrofit (Square) is used to fetch remote JSON data
