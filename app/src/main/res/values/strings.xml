@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meteorite Landings</string>
+    <string name="error_refresh_data">Connection error</string>
+    <string name="retry">Retry</string>
+</resources>
